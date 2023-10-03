@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 03.10.2023 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -21,9 +21,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![240877978-4a9eafc9-2a1e-44d3-9173-978fb35d59d9](https://github.com/lokeshrahulv/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118423842/9ceea29a-7edf-4a2c-b569-d9f455b077cf)
 
-### Name:
-### Register Number:
+### Name: Lokesh Rahul V V
+### Register Number: 212222100024
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
